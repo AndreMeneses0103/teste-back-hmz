@@ -79,7 +79,7 @@ Para recriar este projeto em seu ambiente local, siga as instruções abaixo:
 
 9. **Acesse a API através do Localhost, informando a porta e acessando o Swagger
 ```bash
-  https://localhost:44325/swagger/index.html
+  http://localhost:5037/swagger/index.html
 ```
 
 Na página Swagger, você pode realizar as requisições HTTP da API.
