@@ -45,34 +45,39 @@ Para recriar este projeto em seu ambiente local, siga as instruções abaixo:
   cd Back-HMZ
 ```
 
-3. **Instale as Dependências NuGet:**
+3. **Caso não tenha, instale o dotnet-ef**
+```bash
+  dotnet tool install --global dotnet-ef
+```
+
+4. **Instale as Dependências NuGet:**
 ```bash
   dotnet restore
 ```
 
-4. **Abra o arquivo appsettings.json e altere "MySqlConnection" com informações de acordo com o seu banco de dados:**
+5. **Abra o arquivo appsettings.json e altere "MySqlConnection" com informações de acordo com o seu banco de dados:**
 ```bash
     "ConnectionStrings": {
     "MySqlConnection": "(Inserir conexão do seu banco de dados MySql)"
   }
 ```
 
-5. **Execute esse comando para atualizar o seu banco de dados com as tabelas a serem utilizadas**
+6. **Execute esse comando para atualizar o seu banco de dados com as tabelas a serem utilizadas**
 ```bash
    dotnet ef database update
 ```
 
-6. **Compile o projeto**
+7. **Compile o projeto**
  ```bash
    dotnet build
 ```
 
-7. **Inicie o projeto**
+8. **Inicie o projeto**
  ```bash
    dotnet run
 ```
 
-8. **Acesse a API através do Localhost, informando a porta e acessando o Swagger
+9. **Acesse a API através do Localhost, informando a porta e acessando o Swagger
 ```bash
   https://localhost:44325/swagger/index.html
 ```
