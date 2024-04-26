@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\forms\\loginupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\forms\\loginupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\forms\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\forms\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|c:\\users\\andre\\desktop\\just coding\\teste_hmz_back\\back-hmz\\back-hmz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C360028E-DA9F-49D0-98D6-9571F5F1CD8E}|Back-HMZ\\Back-HMZ.csproj|solutionrelative:back-hmz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Models\\User.cs",
+              "RelativeToolTip": "Back-HMZ\\Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:25:49.957Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUpdateForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Forms\\LoginUpdateForm.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Forms\\LoginUpdateForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Forms\\LoginUpdateForm.cs",
+              "RelativeToolTip": "Back-HMZ\\Forms\\LoginUpdateForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:05:11.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Back-HMZ\\Forms\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:09:53.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Back-HMZ\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAHoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:00:30.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Back-HMZ\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:39:32.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Forms\\UpdateForm.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Forms\\UpdateForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Forms\\UpdateForm.cs",
+              "RelativeToolTip": "Back-HMZ\\Forms\\UpdateForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:19:50.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Back-HMZ\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:44:06.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Models\\Login.cs",
+              "RelativeToolTip": "Back-HMZ\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:26:42.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Forms\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Forms\\RegisterForm.cs",
+              "RelativeToolTip": "Back-HMZ\\Forms\\RegisterForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:24:35.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Back-HMZ\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:36:14.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Program.cs",
+              "RelativeDocumentMoniker": "Back-HMZ\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Just Coding\\TESTE_HMZ_BACK\\Back-HMZ\\Back-HMZ\\Program.cs",
+              "RelativeToolTip": "Back-HMZ\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:17:49.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
